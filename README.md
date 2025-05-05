@@ -2,7 +2,7 @@
 
 <h2 align="center">
     A CLI-based Search Engine for Tech Data ⚙️<br>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/YourUsername/CodeWiki?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/BrantLauro/CodeWiki?style=social">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BrantLauro?label=Follow%20me&style=social">
 </h2>
 <p align="center">
